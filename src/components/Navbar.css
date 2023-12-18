@@ -1,0 +1,11 @@
+.logo-container {
+    display: flex;
+    background-color: #ffffff;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.11);
+}
+
+.airbnb-logo {
+    width: 100px;
+    padding: 1rem;
+    margin-top: .9rem;
+}

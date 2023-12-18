@@ -1,0 +1,11 @@
+.grid {
+    max-width: 95vw;
+    max-height: 95vh;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
